@@ -22,7 +22,7 @@ Building web applications, REST APIs and integrations.
 
 ## 🧑‍💻 About Me
 
-I'm a PHP developer focused on **Laravel backend development**,
+I'm a fullstack developer focused on **Laravel backend development**/**Vue.js**,
 REST APIs and modern web applications.
 
 I enjoy building complete systems where backend, frontend,
